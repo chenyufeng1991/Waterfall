@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2BADBACF-7D6C-4991-9E33-F00DFB003CAF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>95c7b24c-4e28-4cc1-8b98-21f0313b0893</key>
+		<string>svn://localhost/fagaiwei</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WaterFallDemo/WaterFallDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>95c7b24c-4e28-4cc1-8b98-21f0313b0893</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>95c7b24c-4e28-4cc1-8b98-21f0313b0893</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>95c7b24c-4e28-4cc1-8b98-21f0313b0893</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XcodeWorkspace</string>
+		</dict>
+	</array>
+</dict>
+</plist>
